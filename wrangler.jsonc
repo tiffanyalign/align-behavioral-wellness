@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "align-behavioral-wellness",
+  "name": "alignbehavioralwellness",
   "compatibility_date": "2026-05-03",
   "observability": {
     "enabled": true
